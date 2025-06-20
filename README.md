@@ -1,1 +1,1 @@
-# recommendation-code
+This paper introduces an iterative attention network that disentangles users' long- and short-term interests. By iteratively analyzing the subspace formed by the user and their clicked items, the network progressively refines the weighting of items based on their corresponding interest type, thereby uncovering the underlying preferences driving item interactions. # recommendation-code
